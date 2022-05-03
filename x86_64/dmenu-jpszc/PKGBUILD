@@ -1,5 +1,5 @@
 pkgname=dmenu-jpszc
-pkgver=5.1.r.
+pkgver=5.1.r1.cfc7afd
 pkgrel=1
 epoch=
 pkgdesc="A build of dmenu patched for centering, borders, grids, numbers, line height, mouse support, fuzzy matching and highlighting."
