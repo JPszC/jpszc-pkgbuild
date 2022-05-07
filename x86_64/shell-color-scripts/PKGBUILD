@@ -1,6 +1,6 @@
 pkgname=shell-color-scripts
 _pkgname=shell-color-scripts
-pkgver=1.1.r91.5b727db
+pkgver=1.1.r92.08c60e0
 pkgrel=1
 pkgdesc="A CLI for the collection of terminal color scripts. Included 52 beautiful terminal color scripts."
 arch=('i686' 'x86_64')
